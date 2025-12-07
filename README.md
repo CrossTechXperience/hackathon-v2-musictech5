@@ -1,18 +1,24 @@
 # Hackathon Template Folder and README
 
-# Name of the Project
+V.G.M.S virtual grand Mix simulation
 
 (Put your logo here if you have one )
 
-## Pitch of the project
+You suffer from social anxiety and when do you want to go there? 
+Even at concerts, thanks to V.G.M.S, we help you to 
+You will prepare for this social and sensory experience.
 
 (context, problematic, solution, 200 words)
 
-## Team
+Our objective is to create a VR application allowing visitors 
+to discover places in a perceptive and sensory way in order 
+to mentally prepare people with anxiety disorders.
 
 Names + organisation + picture
 
-## Structure of the folder
+V.G.M.S 
+Music tech
+Team : Roland Marvin, Clautier Benjamin, Vanden Waeyenbergn Emmeline, Megzari Amina, Samain Eline, Philippon Alexandre
 
 We need all the source files that you used, you can organise your repo as you see fit.
 If you used Miro, Figma or any other cloud based tools please put the links of the source files and add the exported documents.
