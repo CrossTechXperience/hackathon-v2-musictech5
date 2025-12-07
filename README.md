@@ -2,19 +2,13 @@
 
 V.G.M.S virtual grand Mix simulation
 
-(Put your logo here if you have one )
-
 You suffer from social anxiety and when do you want to go there? 
 Even at concerts, thanks to V.G.M.S, we help you to 
 You will prepare for this social and sensory experience.
 
-(context, problematic, solution, 200 words)
-
 Our objective is to create a VR application allowing visitors 
 to discover places in a perceptive and sensory way in order 
 to mentally prepare people with anxiety disorders.
-
-Names + organisation + picture
 
 V.G.M.S 
 Music tech
